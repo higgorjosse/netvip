@@ -1,0 +1,21 @@
+# netvip
+Lista do Higor
+
+#EXTM3Ua
+#PLAYLISTV: pltv-logo="https://teatv.net/wp-content/uploads/2017/06/TeaTV_logo5.png" pltv-name="TVPlay" pltv-description="Lista de canais e filmes" pltv-cover="https://www.clinks.com.br/wp-9content/uploads/2013/03/anunciar-tv-assinatura.jpg" pltv-author="Higor" pltv-site="ERRO 404" pltv-email="ERRO 404" pltv-phone="+55(83)9-9384-2568"
+ 
+
+################## CANAIS ABERTOS ########################
+
+#EXTINF:-1 group-title="TV ABERTA" pltv-subgroup="XXX SUBGRUPOXXX", SBT
+http://s1.electru.biz:8080/live/prem/prem/30570.ts
+
+
+################## FILMES ########################
+
+#EXTINF:-1 tvg-img="https://poltronadecinema.files.wordpress.com/2017/02/kingkong-01.jpg" group-title="Filmes" pltv-subgroup="Acao", Kong A Ilha da Caveira
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/KONGAILHCVR.mp4
+
+
+
+
