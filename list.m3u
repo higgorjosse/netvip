@@ -7,7 +7,7 @@ Lista do Higor
 
 ################## CANAIS ABERTOS ########################
 
-#EXTINF:-1 group-title="TV ABERTA" ,SBT
+#EXTINF:-1 group-title="TV ABERTA", SBT
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist_w1331269005.m3u8
 
 ################## FILMES ########################
