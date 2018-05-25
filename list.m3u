@@ -9,10 +9,10 @@ http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist_w1331269005.m3u8
 
 ################## FILMES ########################
 
-#EXTINF:-1 tvg-logo="https://megafilmes.org/wp-content/uploads/2017/06/144568.jpg-c_215_290_x-f_jpg-q_x-xxyxx-240x320.jpg" group-title="Filmes" pltv-subgroup="Ação",Kong A Ilha da Caveira
-https://1fjiw63.oloadcdn.net/dl/l/Vav8QRBRPpa77Ao2/kw7Oix1zItI/K0G4ILH4CVDUB.mp4?mime=true
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/jhO50nYmGMbhaGAL6VLX5WBH3N7.jpg" group-title="Filmes" pltv-subgroup="Ação",Kong A Ilha da Caveira 480p
+http://185.38.12.50/sec/1527324846/39333138cf57e729abfb7e27ff1b570032e54faa1eba3908/ivs/b4/bc/df2bc8b2867e/hls/tracks-1,4/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://megafilmes.org/wp-content/uploads/2017/01/MV5BMjA1MTc1NTg5NV5BMl5BanBnXkFtZTgwOTM2MDEzNzE@._V1_UX182_CR00182268_AL_-240x320.jpg" group-title="Filmes" pltv-subgroup="Faroeste",Kong A Ilha da Caveira
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/14HTiOiLHYf3qYIuxO12FkbfWlA.jpg" group-title="Filmes" pltv-subgroup="Faroeste",Os Oito Odiados 480p
 http://185.38.12.38/sec/1527323999/39363532342e368ceb73e1db77b77f65de3d4c2f755b4d0c/ivs/a2/cb/e5f520f23464/hls/tracks-1,4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://megafilmes.org/wp-content/uploads/2017/01/MV5BMjA1MTc1NTg5NV5BMl5BanBnXkFtZTgwOTM2MDEzNzE@._V1_UX182_CR00182268_AL_-240x320.jpg
