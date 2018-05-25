@@ -2,22 +2,21 @@
 Lista do Higor
 
 #EXTM3Ua
-#PLAYLISTV: pltv-logo="https://teatv.net/wp-content/uploads/2017/06/TeaTV_logo5.png" pltv-name="Netvip" pltv-description="Lista de canais e filmes" pltv-cover="https://www.arqiva.com/contentAsset/image/56dc44ed-7c91-42a2-8ec2-f30154833bb1/fileAsset/filter/Resize,Crop,Jpeg/resize_w/862/crop_w/862/crop_h/484/crop_x/0/crop_y/0/jpeg_q/80/56dc44ed-7c91-42a2-8ec2-f30154833bb1.jpg" pltv-author="Higor" pltv-site="ERRO 404" pltv-email="ERRO 404" pltv-phone="+55(83)9-9384-2568"
+#PLAYLISTV: pltv-logo="https://teatv.net/wp-content/uploads/2017/06/TeaTV_logo5.png" pltv-name="Netvip" pltv-description="Lista de canais e filmes" pltv-cover="https://www.arqiva.com/contentAsset/image/56dc44ed-7c91-42a2-8ec2-f30154833bb1/fileAsset/filter/Resize,Crop,Jpeg/resize_w/862/crop_w/862/crop_h/484/crop_x/0/crop_y/0/jpeg_q/80/56dc44ed-7c91-42a2-8ec2-f30154833bb1.jpg" pltv-author="Higor" pltv-email="ERRO404" pltv-phone="+55(83)9-9384-2568"
  
 
 ################## CANAIS ABERTOS ########################
 
-#EXTINF:-1 group-title="TV ABERTA" pltv-subgroup="XXX SUBGRUPOXXX", SBT
-http://s1.electru.biz:8080/live/prem/prem/30570.ts
-
+#EXTINF:-1 group-title="TV ABERTA" SBT
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist_w1331269005.m3u8
 
 ################## FILMES ########################
 
-#EXTINF:-1 tvg-img="https://megafilmes.org/wp-content/uploads/2017/06/144568.jpg-c_215_290_x-f_jpg-q_x-xxyxx-240x320.jpg" group-title="Filmes" pltv-subgroup="Ação, Aventura, Fantasia", Kong A Ilha da Caveira
+#EXTINF:-1 tvg-img="https://megafilmes.org/wp-content/uploads/2017/06/144568.jpg-c_215_290_x-f_jpg-q_x-xxyxx-240x320.jpg" group-title="Filmes" pltv-subgroup="Ação", Kong A Ilha da Caveira
 https://1fjiw63.oloadcdn.net/dl/l/Vav8QRBRPpa77Ao2/kw7Oix1zItI/K0G4ILH4CVDUB.mp4?mime=true
 
 #EXTINF:-1 tvg-img="https://megafilmes.org/wp-content/uploads/2017/01/MV5BMjA1MTc1NTg5NV5BMl5BanBnXkFtZTgwOTM2MDEzNzE@._V1_UX182_CR00182268_AL_-240x320.jpg
-" group-title="Filmes" pltv-subgroup="Faroeste", Os Oito Odiados
+"group-title="Filmes" pltv-subgroup="Faroeste", Os Oito Odiados
 https://oqbkih.oloadcdn.net/dl/l/RXskDbzlwx9IUHSp/b7XtAboibs4/0S80D14D0S.mkv.mp4?mime=true
 
 ################## CANAIS PREMIUM ######################
