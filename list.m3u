@@ -2,7 +2,7 @@
 Lista do Higor
 
 #EXTM3Ua
-#PLAYLISTV: pltv-logo="https://teatv.net/wp-content/uploads/2017/06/TeaTV_logo5.png" pltv-name="TVPlay" pltv-description="Lista de canais e filmes" pltv-cover="https://www.clinks.com.br/wp-9content/uploads/2013/03/anunciar-tv-assinatura.jpg" pltv-author="Higor" pltv-site="ERRO 404" pltv-email="ERRO 404" pltv-phone="+55(83)9-9384-2568"
+#PLAYLISTV: pltv-logo="https://teatv.net/wp-content/uploads/2017/06/TeaTV_logo5.png" pltv-name="TVPlay" pltv-description="Lista de canais e filmes" pltv-cover="https://www.arqiva.com/contentAsset/image/56dc44ed-7c91-42a2-8ec2-f30154833bb1/fileAsset/filter/Resize,Crop,Jpeg/resize_w/862/crop_w/862/crop_h/484/crop_x/0/crop_y/0/jpeg_q/80/56dc44ed-7c91-42a2-8ec2-f30154833bb1.jpg" pltv-author="Higor" pltv-site="ERRO 404" pltv-email="ERRO 404" pltv-phone="+55(83)9-9384-2568"
  
 
 ################## CANAIS ABERTOS ########################
@@ -16,6 +16,478 @@ http://s1.electru.biz:8080/live/prem/prem/30570.ts
 #EXTINF:-1 tvg-img="https://poltronadecinema.files.wordpress.com/2017/02/kingkong-01.jpg" group-title="Filmes" pltv-subgroup="Acao", Kong A Ilha da Caveira
 http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/KONGAILHCVR.mp4
 
-
+#EXTM3U
+#EXTINF:-1,+ Globo Sat
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/98.ts
+#EXTINF:-1,Arte 1
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/99.ts
+#EXTINF:-1,AXN
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/100.ts
+#EXTINF:-1,Bis
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/101.ts
+#EXTINF:-1,A&
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/117.ts
+#EXTINF:-1,AMC
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/118.ts
+#EXTINF:-1,Animal Planet
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/119.ts
+#EXTINF:-1,Band
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/120.ts
+#EXTINF:-1,Band News
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/121.ts
+#EXTINF:-1,Band Sports
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/123.ts
+#EXTINF:-1,Boomerang
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/124.ts
+#EXTINF:-1,Canal Brasil
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/102.ts
+#EXTINF:-1,Cartoon Network
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/103.ts
+#EXTINF:-1,Cinemax
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/126.ts
+#EXTINF:-1,Combate
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/127.ts
+#EXTINF:-1,Comedy Central
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/129.ts
+#EXTINF:-1,Curta
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/131.ts
+#EXTINF:-1,Discovery Channel
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/104.ts
+#EXTINF:-1,Discovery H&H
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/133.ts
+#EXTINF:-1,Discovery ID
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/163.ts
+#EXTINF:-1,Discovery Kids
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/162.ts
+#EXTINF:-1,Discovery Turbo
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/164.ts
+#EXTINF:-1,Disney
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/134.ts
+#EXTINF:-1,Disney JR
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/136.ts
+#EXTINF:-1,Disney XD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/138.ts
+#EXTINF:-1,E!
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/139.ts
+#EXTINF:-1,Ei Maxx 2
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/168.ts
+#EXTINF:-1,EiMaxx
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/105.ts
+#EXTINF:-1,ESPN
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/106.ts
+#EXTINF:-1,ESPN +
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/171.ts
+#EXTINF:-1,Espn Brasil
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/140.ts
+#EXTINF:-1,Fish TV
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/142.ts
+#EXTINF:-1,Food Network
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/107.ts
+#EXTINF:-1,Fox
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/172.ts
+#EXTINF:-1,Fox Life
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/173.ts
+#EXTINF:-1,Fox Sports
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/174.ts
+#EXTINF:-1,Fox Sports 2
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/108.ts
+#EXTINF:-1,FX
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/144.ts
+#EXTINF:-1,Globo Bahia
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/176.ts
+#EXTINF:-1,Globo Brasilia
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/151.ts
+#EXTINF:-1,Globo Minas
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/109.ts
+#EXTINF:-1,Globo News
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/110.ts
+#EXTINF:-1,Globo Nordeste
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/177.ts
+#EXTINF:-1,Globo RJ
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/147.ts
+#EXTINF:-1,Globo SP
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/149.ts
+#EXTINF:-1,Gloob
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/111.ts
+#EXTINF:-1,GNT
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/153.ts
+#EXTINF:-1,HBO
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/112.ts
+#EXTINF:-1,HBO 2
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/155.ts
+#EXTINF:-1,HBO Family
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/157.ts
+#EXTINF:-1,HBO Plus
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/180.ts
+#EXTINF:-1,HBO Plus E
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/160.ts
+#EXTINF:-1,HBO signature
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/113.ts
+#EXTINF:-1,History
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/182.ts
+#EXTINF:-1,History 2
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/161.ts
+#EXTINF:-1,Inter TV Cabugi
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/114.ts
+#EXTINF:-1,ISat
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/165.ts
+#EXTINF:-1,Life Time
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/184.ts
+#EXTINF:-1,Max
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/166.ts
+#EXTINF:-1,Max Prime
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/169.ts
+#EXTINF:-1,Max Prime E
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/167.ts
+#EXTINF:-1,Max UP
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/188.ts
+#EXTINF:-1,Megapix
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/170.ts
+#EXTINF:-1,MTV
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/190.ts
+#EXTINF:-1,Multishow
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/175.ts
+#EXTINF:-1,Music Box Brasil
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/194.ts
+#EXTINF:-1,NatGeo
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/178.ts
+#EXTINF:-1,NatiGeo Kids
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/179.ts
+#EXTINF:-1,NatiGeo Wild
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/181.ts
+#EXTINF:-1,Nick JR
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/183.ts
+#EXTINF:-1,Nickelodeon
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/198.ts
+#EXTINF:-1,OFF
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/115.ts
+#EXTINF:-1,Paramount
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/116.ts
+#EXTINF:-1,PlayBoy
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/201.ts
+#EXTINF:-1,Premiere 2
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/203.ts
+#EXTINF:-1,Premiere 3
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/206.ts
+#EXTINF:-1,Premiere 4
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/185.ts
+#EXTINF:-1,Premiere 5
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/122.ts
+#EXTINF:-1,Premiere 6
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/208.ts
+#EXTINF:-1,Premiere 8
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/125.ts
+#EXTINF:-1,Premiere 9
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/186.ts
+#EXTINF:-1,Prime Box Brasil
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/128.ts
+#EXTINF:-1,RBS
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/187.ts
+#EXTINF:-1,Record
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/130.ts
+#EXTINF:-1,Record News
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/132.ts
+#EXTINF:-1,Rede Amazonica
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/189.ts
+#EXTINF:-1,SBT
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/191.ts
+#EXTINF:-1,Sextreme
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/135.ts
+#EXTINF:-1,Space
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/192.ts
+#EXTINF:-1,Sportv
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/193.ts
+#EXTINF:-1,Sportv 2
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/137.ts
+#EXTINF:-1,Studio Universal
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/195.ts
+#EXTINF:-1,Syfy
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/196.ts
+#EXTINF:-1,TBS
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/197.ts
+#EXTINF:-1,TC Action
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/141.ts
+#EXTINF:-1,TC Cult
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/143.ts
+#EXTINF:-1,TC Pipoca
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/200.ts
+#EXTINF:-1,TCM
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/199.ts
+#EXTINF:-1,TLC
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/202.ts
+#EXTINF:-1,TNT
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/145.ts
+#EXTINF:-1,TNT Series
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/204.ts
+#EXTINF:-1,Tooncast
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/146.ts
+#EXTINF:-1,Tru TV
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/148.ts
+#EXTINF:-1,TV Anhanguera GO
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/150.ts
+#EXTINF:-1,TV Tem Bauru
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/152.ts
+#EXTINF:-1,TV Tem Sorocaba
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/154.ts
+#EXTINF:-1,TV Verdes mares
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/156.ts
+#EXTINF:-1,Universal Channel
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/158.ts
+#EXTINF:-1,Venus
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/205.ts
+#EXTINF:-1,Woohoo
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/207.ts
+#EXTINF:-1,Canal Rural
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/236.ts
+#EXTINF:-1,Cançao Nova
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/237.ts
+#EXTINF:-1,ideal TV
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/226.ts
+#EXTINF:-1,NBR
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/224.ts
+#EXTINF:-1,NHK
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/227.ts
+#EXTINF:-1,Novo Tempo
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/231.ts
+#EXTINF:-1,Play Tv
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/232.ts
+#EXTINF:-1,Premiere 7
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/209.ts
+#EXTINF:-1,Premiere Clubes
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/210.ts
+#EXTINF:-1,Ra Tim Bum
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/228.ts
+#EXTINF:-1,RBI
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/234.ts
+#EXTINF:-1,Rede Brasil
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/225.ts
+#EXTINF:-1,Rede TV
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/211.ts
+#EXTINF:-1,Rede Vida
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/220.ts
+#EXTINF:-1,RIT
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/235.ts
+#EXTINF:-1,Sexy Hot
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/212.ts
+#EXTINF:-1,SIC Internacional
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/233.ts
+#EXTINF:-1,Sony
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/213.ts
+#EXTINF:-1,Sportv 3
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/214.ts
+#EXTINF:-1,TC Fun
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/215.ts
+#EXTINF:-1,Terra Viva
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/229.ts
+#EXTINF:-1,TV Aparecida
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/230.ts
+#EXTINF:-1,TV Brasil
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/223.ts
+#EXTINF:-1,TV Cultura
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/221.ts
+#EXTINF:-1,TV Liberal Belem
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/216.ts
+#EXTINF:-1,TVE
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/222.ts
+#EXTINF:-1,VH1 Mega Hits
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/217.ts
+#EXTINF:-1,Viva
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/218.ts
+#EXTINF:-1,Warner Channel
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/219.ts
+#EXTINF:-1,TC Touch
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/244.ts
+#EXTINF:-1,TC Premium
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/245.ts
+#EXTINF:-1,Baby TV
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/246.ts
+#EXTINF:-1,Animal Planet HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/97.ts
+#EXTINF:-1,AXN HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/47.ts
+#EXTINF:-1,Band HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/39.ts
+#EXTINF:-1,Band Sports HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/48.ts
+#EXTINF:-1,Bis HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/40.ts
+#EXTINF:-1,Canal Sony HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/45.ts
+#EXTINF:-1,Combate HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/64.ts
+#EXTINF:-1,Discovery Channel HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/65.ts
+#EXTINF:-1,Discovery Home & Helth HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/66.ts
+#EXTINF:-1,Discovery Theater HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/94.ts
+#EXTINF:-1,Discovery Turbo HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/67.ts
+#EXTINF:-1,Discovery World HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/95.ts
+#EXTINF:-1,EiMaxx 2 HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/69.ts
+#EXTINF:-1,EiMaxx HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/68.ts
+#EXTINF:-1,ESPN Brasil HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/70.ts
+#EXTINF:-1,ESPN HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/56.ts
+#EXTINF:-1,ESPN Plus HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/43.ts
+#EXTINF:-1,Esporte Interativo HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/41.ts
+#EXTINF:-1,Fox 1 HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/71.ts
+#EXTINF:-1,Fox Action HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/72.ts
+#EXTINF:-1,Fox HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/54.ts
+#EXTINF:-1,Fox Sports 2 HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/42.ts
+#EXTINF:-1,Fox Sports HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/73.ts
+#EXTINF:-1,FX HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/60.ts
+#EXTINF:-1,Globo RJ HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/35.ts
+#EXTINF:-1,GNT HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/52.ts
+#EXTINF:-1,HBO 2 HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/75.ts
+#EXTINF:-1,HBO Family HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/51.ts
+#EXTINF:-1,HBO HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/74.ts
+#EXTINF:-1,HBO Plus HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/59.ts
+#EXTINF:-1,HBO Signature HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/46.ts
+#EXTINF:-1,History 2 HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/55.ts
+#EXTINF:-1,History HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/86.ts
+#EXTINF:-1,Investigação Discovery HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/50.ts
+#EXTINF:-1,Megapix HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/62.ts
+#EXTINF:-1,Multishow HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/63.ts
+#EXTINF:-1,NatGeo HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/76.ts
+#EXTINF:-1,NatGeo Wild HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/77.ts
+#EXTINF:-1,OFF HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/61.ts
+#EXTINF:-1,Paramount HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/53.ts
+#EXTINF:-1,Premiere 2 HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/79.ts
+#EXTINF:-1,Premiere 3 HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/80.ts
+#EXTINF:-1,Premiere 4 HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/81.ts
+#EXTINF:-1,Premiere 5 HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/82.ts
+#EXTINF:-1,Premiere Clubes HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/78.ts
+#EXTINF:-1,Record HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/38.ts
+#EXTINF:-1,Rede TV HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/37.ts
+#EXTINF:-1,SBT HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/36.ts
+#EXTINF:-1,Space HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/58.ts
+#EXTINF:-1,Sportv 2 HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/84.ts
+#EXTINF:-1,Sportv 3 HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/85.ts
+#EXTINF:-1,Sportv HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/83.ts
+#EXTINF:-1,TBS HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/44.ts
+#EXTINF:-1,TC Action HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/87.ts
+#EXTINF:-1,TC Fun HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/88.ts
+#EXTINF:-1,TC Pipoca HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/89.ts
+#EXTINF:-1,TC Premium HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/90.ts
+#EXTINF:-1,TC Touch HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/49.ts
+#EXTINF:-1,TNT HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/91.ts
+#EXTINF:-1,TNT Series HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/57.ts
+#EXTINF:-1,Universal Channel HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/96.ts
+#EXTINF:-1,Viva HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/92.ts
+#EXTINF:-1,Warner HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/93.ts
+#EXTINF:-1,A&E HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/33.ts
+#EXTINF:-1,AMC HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/32.ts
+#EXTINF:-1,Cartoon Network HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/28.ts
+#EXTINF:-1,Cinemax HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/27.ts
+#EXTINF:-1,Comedy Central HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/1.ts
+#EXTINF:-1,Discovery Civilization HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/26.ts
+#EXTINF:-1,Discovery Kids HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/25.ts
+#EXTINF:-1,Discovery Science HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/24.ts
+#EXTINF:-1,Disney Channel HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/23.ts
+#EXTINF:-1,E! HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/22.ts
+#EXTINF:-1,Food Network HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/21.ts
+#EXTINF:-1,Fox Life HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/3.ts
+#EXTINF:-1,Globo News HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/20.ts
+#EXTINF:-1,Globo Sat HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/34.ts
+#EXTINF:-1,Gloob HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/19.ts
+#EXTINF:-1,Life Time HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/18.ts
+#EXTINF:-1,Max HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/17.ts
+#EXTINF:-1,Max Prime HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/16.ts
+#EXTINF:-1,Max UP HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/15.ts
+#EXTINF:-1,MTV HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/14.ts
+#EXTINF:-1,NatGeo Kids HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/13.ts
+#EXTINF:-1,Nick JR HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/12.ts
+#EXTINF:-1,Nickelodeon HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/11.ts
+#EXTINF:-1,Premiere 6 HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/10.ts
+#EXTINF:-1,Premiere 7 HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/9.ts
+#EXTINF:-1,Studio Universal HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/8.ts
+#EXTINF:-1,Syfy HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/7.ts
+#EXTINF:-1,TLC HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/6.ts
+#EXTINF:-1,TC Cult HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/5.ts
+#EXTINF:-1,VH1 HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/4.ts
+#EXTINF:-1,Woohoo HD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/2.ts
 
 
