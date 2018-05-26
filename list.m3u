@@ -6,22 +6,21 @@
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/icones-gratis/cartao-sd-de-forma-retangular_318-60318.jpg" group-title="CANAIS SD", + Globo Sat
 http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/98.ts
-
-#EXTINF:-1 tvg-logo="https://img.freepik.com/icones-gratis/cartao-sd-de-forma-retangular_318-60318.jpg" group-title="CANAIS SD", Arte 1
+#EXTINF:-1 group-title="CANAIS SD", Arte 1
 http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/99.ts
-#EXTINF:-1 tvg-logo="https://img.freepik.com/icones-gratis/cartao-sd-de-forma-retangular_318-60318.jpg" group-title="CANAIS SD", AXN
+#EXTINF:-1 group-title="CANAIS SD", AXN
 http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/100.ts
-#EXTINF:-1 tvg-logo="https://img.freepik.com/icones-gratis/cartao-sd-de-forma-retangular_318-60318.jpg" group-title="CANAIS SD", A&
+#EXTINF:-1 group-title="CANAIS SD", A&
 http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/117.ts
-#EXTINF:-1 tvg-logo="https://img.freepik.com/icones-gratis/cartao-sd-de-forma-retangular_318-60318.jpg" group-title="CANAIS SD", AMC
+#EXTINF:-1 group-title="CANAIS SD", AMC
 http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/118.ts
-#EXTINF:-1 tvg-logo="https://img.freepik.com/icones-gratis/cartao-sd-de-forma-retangular_318-60318.jpg" group-title="CANAIS SD", Animal Planet
+#EXTINF:-1 group-title="CANAIS SD", Animal Planet
 http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/119.ts
-#EXTINF:-1 tvg-logo="https://img.freepik.com/icones-gratis/cartao-sd-de-forma-retangular_318-60318.jpg" group-title="TV ABERTA", Band
+#EXTINF:-1 group-title="TV ABERTA", Band
 http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/120.ts
-#EXTINF:-1 tvg-logo="https://img.freepik.com/icones-gratis/cartao-sd-de-forma-retangular_318-60318.jpg" group-title="CANAIS SD", Band News
+#EXTINF:-1 group-title="CANAIS SD", Band News
 http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/121.ts
-#EXTINF:-1 tvg-logo="https://img.freepik.com/icones-gratis/cartao-sd-de-forma-retangular_318-60318.jpg" group-title="CANAIS SD", Band Sports
+#EXTINF:-1 group-title="CANAIS SD", Band Sports
 http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/123.ts
 #EXTINF:-1 group-title="CANAIS SD", Bis
 http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/101.ts
@@ -492,9 +491,11 @@ http://185.38.12.50/sec/1527324846/39333138cf57e729abfb7e27ff1b570032e54faa1eba3
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/14HTiOiLHYf3qYIuxO12FkbfWlA.jpg" group-title="Filmes" pltv-subgroup="Faroeste",Os Oito Odiados 480p
 http://185.38.12.38/sec/1527323999/39363532342e368ceb73e1db77b77f65de3d4c2f755b4d0c/ivs/a2/cb/e5f520f23464/hls/tracks-1,4/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/kG4ZxEBVw4eS23QSXG0PaUaDoEx.jpg" group-title="Filmes" pltv-subgroup="Ficção",Planeta dos Macacos: A Guerra
 http://185.38.12.48/sec/1527326370/35353936eeae4d4be8ed7b0fe5b07280dbdb36501e78c27e/ivs/67/bb/1d59dda98204/hls/tracks-1,4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/iyYF5UtV7XYoxjfotvaCXvGp6Zz.jpg" group-title="Filmes" pltv-subgroup="Comédia",Os Parças - Nacional
+http://37.220.39.62/sec/1527333257/383335386ea8e2bbaf1dbce31364c6bfa5251185c7a1258d/ivs/35/ac/77e264ee20be/hls/tracks-1,4/index.m3u8
 
 
 
