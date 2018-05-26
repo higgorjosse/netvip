@@ -8,7 +8,7 @@
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist_w1331269005.m3u8
 
 
-################## CANAIS PREMIUM ########################
+################## CANAIS SD ########################
 
 #EXTINF:-1 group-title="CANAIS SD", + Globo Sat
 http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/98.ts
@@ -16,284 +16,284 @@ http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/98.ts
 http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/99.ts
 #EXTINF:-1 group-title="CANAIS SD", AXN
 http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/100.ts
-#EXTINF:-1 group-title="CANAIS SD", Bis
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/101.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM", A&
+#EXTINF:-1 group-title="CANAIS SD", A&
 http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/117.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM", AMC
+#EXTINF:-1 group-title="CANAIS SD", AMC
 http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/118.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM", Animal Planet
+#EXTINF:-1 group-title="CANAIS SD", Animal Planet
 http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/119.ts
 #EXTINF:-1 group-title="TV ABERTA", Band
 http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/120.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM", Band News
+#EXTINF:-1 group-title="CANAIS SD", Band News
 http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/121.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM", Band Sports
+#EXTINF:-1 group-title="CANAIS SD", Band Sports
 http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/123.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM", Boomerang
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/124.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM", Canal Brasil
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/102.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM", Cartoon Network
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/103.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM", Cinemax
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/126.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM", Combate
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/127.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM", Comedy Central
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/129.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM", Curta
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/131.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM", Discovery Channel
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/104.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM", Discovery H&H
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/133.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM", Discovery ID
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/163.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"Discovery Kids
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/162.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"Discovery Turbo
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/164.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"Disney
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/134.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"Disney JR
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/136.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"Disney XD
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/138.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"E!
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/139.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"Ei Maxx 2
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/168.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"EiMaxx
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/105.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"ESPN
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/106.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"ESPN +
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/171.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"Espn Brasil
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/140.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"Fish TV
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/142.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"Food Network
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/107.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"Fox
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/172.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"Fox Life
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/173.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"Fox Sports
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/174.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"Fox Sports 2
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/108.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"FX
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/144.ts
-#EXTINF:-1 group-title="TV ABERTA"Globo Bahia
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/176.ts
-#EXTINF:-1 group-title="TV ABERTA"Globo Brasilia
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/151.ts
-#EXTINF:-1 group-title="TV ABERTA"Globo Minas
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/109.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"Globo News
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/110.ts
-#EXTINF:-1 group-title="TV ABERTA"Globo Nordeste
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/177.ts
-#EXTINF:-1 group-title="TV ABERTA"Globo RJ
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/147.ts
-#EXTINF:-1 group-title="TV ABERTA"Globo SP
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/149.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"Gloob
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/111.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"GNT
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/153.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"HBO
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/112.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"HBO 2
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/155.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"HBO Family
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/157.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"HBO Plus
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/180.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"HBO Plus E
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/160.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"HBO signature
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/113.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"History
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/182.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"History 2
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/161.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"Inter TV Cabugi
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/114.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"ISat
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/165.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"Life Time
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/184.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"Max
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/166.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"Max Prime
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/169.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"Max Prime E
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/167.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"Max UP
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/188.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"Megapix
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/170.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"MTV
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/190.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"Multishow
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/175.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"Music Box Brasil
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/194.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"NatGeo
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/178.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"NatiGeo Kids
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/179.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"NatiGeo Wild
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/181.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"Nick JR
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/183.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"Nickelodeon
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/198.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"OFF
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/115.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"Paramount
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/116.ts
-#EXTINF:-1 group-title="CANAIS +18"PlayBoy
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/201.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"Premiere 2
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/203.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"Premiere 3
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/206.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"Premiere 4
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/185.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"Premiere 5
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/122.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"Premiere 6
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/208.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"Premiere 7
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/209.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"Premiere 8
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/125.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"Premiere 9
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/186.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"Prime Box Brasil
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/128.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"RBS
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/187.ts
-#EXTINF:-1 group-title="TV ABERTA"Record
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/130.ts
-#EXTINF:-1 group-title="TV ABERTA"Record News
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/132.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"Rede Amazonica
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/189.ts
-#EXTINF:-1 group-title="TV ABERTA"SBT
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/191.ts
-#EXTINF:-1 group-title="CANAIS +18"Sextreme
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/135.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"Space
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/192.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"Sportv
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/193.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"Sportv 2
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/137.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"Studio Universal
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/195.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"Syfy
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/196.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"TBS
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/197.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"TC Action
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/141.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"TC Cult
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/143.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"TC Pipoca
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/200.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"TCM
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/199.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"TLC
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/202.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"TNT
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/145.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"TNT Series
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/204.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"Tooncast
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/146.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"Tru TV
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/148.ts
-#EXTINF:-1 group-title="TV ABERTA"TV Anhanguera GO
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/150.ts
-#EXTINF:-1 group-title="TV ABERTA"TV Tem Bauru
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/152.ts
-#EXTINF:-1 group-title="TV ABERTA"TV Tem Sorocaba
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/154.ts
-#EXTINF:-1 group-title="TV ABERTA"TV Verdes mares
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/156.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"Universal Channel
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/158.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"Venus
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/205.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"Woohoo
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/207.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"Canal Rural
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/236.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"Cançao Nova
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/237.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"ideal TV
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/226.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"NBR
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/224.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"NHK
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/227.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"Novo Tempo
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/231.ts
-#EXTINF:-1 group-title="CANAIS PREMIUM"Play Tv
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/232.ts
-#EXTINF:-1 "CANAIS PREMIUM"Premiere Clubes
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/210.ts
-#EXTINF:-1 "CANAIS PREMIUM"Ra Tim Bum
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/228.ts
-#EXTINF:-1 "CANAIS PREMIUM"RBI
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/234.ts
-#EXTINF:-1 "CANAIS PREMIUM"Rede Brasil
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/225.ts
-#EXTINF:-1 "TV ABERTA"Rede TV
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/211.ts
-#EXTINF:-1 "CANAIS PREMIUM"Rede Vida
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/220.ts
-#EXTINF:-1 "CANAIS PREMIUM"RIT
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/235.ts
-#EXTINF:-1 "CANAIS +18"Sexy Hot
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/212.ts
-#EXTINF:-1 "CANAIS PREMIUM"SIC Internacional
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/233.ts
-#EXTINF:-1 "CANAIS PREMIUM"Sony
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/213.ts
-#EXTINF:-1 "CANAIS PREMIUM"Sportv 3
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/214.ts
-#EXTINF:-1 "CANAIS PREMIUM"TC Fun
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/215.ts
-#EXTINF:-1 "CANAIS PREMIUM"Terra Viva
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/229.ts
-#EXTINF:-1 "TV ABERTA"TV Aparecida
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/230.ts
-#EXTINF:-1 "CANAIS PREMIUM"TV Brasil
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/223.ts
-#EXTINF:-1 "CANAIS PREMIUM"TV Cultura
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/221.ts
-#EXTINF:-1 "TV ABERTA"TV Liberal Belem
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/216.ts
-#EXTINF:-1 "CANAIS PREMIUM"TVE
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/222.ts
-#EXTINF:-1 "CANAIS PREMIUM"VH1 Mega Hits
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/217.ts
-#EXTINF:-1 "CANAIS PREMIUM"Viva
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/218.ts
-#EXTINF:-1 "CANAIS PREMIUM"Warner Channel
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/219.ts
-#EXTINF:-1 "CANAIS PREMIUM"TC Touch
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/244.ts
-#EXTINF:-1 "CANAIS PREMIUM" TC Premium
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/245.ts
-#EXTINF:-1 "CANAIS PREMIUM" Baby TV
+#EXTINF:-1 group-title="CANAIS SD", Bis
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/101.ts
+#EXTINF:-1 group-title="CANAIS SD", Baby TV
 http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/246.ts
+#EXTINF:-1 group-title="CANAIS SD", Boomerang
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/124.ts
+#EXTINF:-1 group-title="CANAIS SD", Canal Brasil
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/102.ts
+#EXTINF:-1 group-title="CANAIS SD", Cartoon Network
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/103.ts
+#EXTINF:-1 group-title="CANAIS SD", Cinemax
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/126.ts
+#EXTINF:-1 group-title="CANAIS SD", Combate
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/127.ts
+#EXTINF:-1 group-title="CANAIS SD", Comedy Central
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/129.ts
+#EXTINF:-1 group-title="CANAIS SD", Curta
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/131.ts
+#EXTINF:-1 group-title="CANAIS SD", Discovery Channel
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/104.ts
+#EXTINF:-1 group-title="CANAIS SD", Discovery H&H
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/133.ts
+#EXTINF:-1 group-title="CANAIS SD", Discovery ID
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/163.ts
+#EXTINF:-1 group-title="CANAIS SD", Discovery Kids
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/162.ts
+#EXTINF:-1 group-title="CANAIS SD", Discovery Turbo
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/164.ts
+#EXTINF:-1 group-title="CANAIS SD", Disney
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/134.ts
+#EXTINF:-1 group-title="CANAIS SD", Disney JR
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/136.ts
+#EXTINF:-1 group-title="CANAIS SD", Disney XD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/138.ts
+#EXTINF:-1 group-title="CANAIS SD", E!
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/139.ts
+#EXTINF:-1 group-title="CANAIS SD", Ei Maxx 2
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/168.ts
+#EXTINF:-1 group-title="CANAIS SD", EiMaxx
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/105.ts
+#EXTINF:-1 group-title="CANAIS SD", ESPN
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/106.ts
+#EXTINF:-1 group-title="CANAIS SD", ESPN +
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/171.ts
+#EXTINF:-1 group-title="CANAIS SD", Espn Brasil
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/140.ts
+#EXTINF:-1 group-title="CANAIS SD", Fish TV
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/142.ts
+#EXTINF:-1 group-title="CANAIS SD", Food Network
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/107.ts
+#EXTINF:-1 group-title="CANAIS SD", Fox
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/172.ts
+#EXTINF:-1 group-title="CANAIS SD", Fox Life
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/173.ts
+#EXTINF:-1 group-title="CANAIS SD", Fox Sports
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/174.ts
+#EXTINF:-1 group-title="CANAIS SD", Fox Sports 2
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/108.ts
+#EXTINF:-1 group-title="CANAIS SD", FX
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/144.ts
+#EXTINF:-1 group-title="TV ABERTA", Globo Bahia
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/176.ts
+#EXTINF:-1 group-title="TV ABERTA", Globo Brasilia
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/151.ts
+#EXTINF:-1 group-title="TV ABERTA", Globo Minas
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/109.ts
+#EXTINF:-1 group-title="CANAIS SD", Globo News
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/110.ts
+#EXTINF:-1 group-title="TV ABERTA", Globo Nordeste
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/177.ts
+#EXTINF:-1 group-title="TV ABERTA", Globo RJ
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/147.ts
+#EXTINF:-1 group-title="TV ABERTA", Globo SP
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/149.ts
+#EXTINF:-1 group-title="CANAIS SD", Gloob
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/111.ts
+#EXTINF:-1 group-title="CANAIS SD", GNT
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/153.ts
+#EXTINF:-1 group-title="CANAIS SD", HBO
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/112.ts
+#EXTINF:-1 group-title="CANAIS SD", HBO 2
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/155.ts
+#EXTINF:-1 group-title="CANAIS SD", HBO Family
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/157.ts
+#EXTINF:-1 group-title="CANAIS SD", HBO Plus
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/180.ts
+#EXTINF:-1 group-title="CANAIS SD", HBO Plus E
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/160.ts
+#EXTINF:-1 group-title="CANAIS SD", HBO signature
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/113.ts
+#EXTINF:-1 group-title="CANAIS SD", History
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/182.ts
+#EXTINF:-1 group-title="CANAIS SD", History 2
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/161.ts
+#EXTINF:-1 group-title="CANAIS SD", Inter TV Cabugi
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/114.ts
+#EXTINF:-1 group-title="CANAIS SD", ISat
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/165.ts
+#EXTINF:-1 group-title="CANAIS SD", Life Time
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/184.ts
+#EXTINF:-1 group-title="CANAIS SD", Max
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/166.ts
+#EXTINF:-1 group-title="CANAIS SD", Max Prime
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/169.ts
+#EXTINF:-1 group-title="CANAIS SD", Max Prime E
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/167.ts
+#EXTINF:-1 group-title="CANAIS SD", Max UP
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/188.ts
+#EXTINF:-1 group-title="CANAIS SD", Megapix
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/170.ts
+#EXTINF:-1 group-title="CANAIS SD", MTV
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/190.ts
+#EXTINF:-1 group-title="CANAIS SD", Multishow
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/175.ts
+#EXTINF:-1 group-title="CANAIS SD", Music Box Brasil
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/194.ts
+#EXTINF:-1 group-title="CANAIS SD", NatGeo
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/178.ts
+#EXTINF:-1 group-title="CANAIS SD", NatiGeo Kids
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/179.ts
+#EXTINF:-1 group-title="CANAIS SD", NatiGeo Wild
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/181.ts
+#EXTINF:-1 group-title="CANAIS SD", Nick JR
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/183.ts
+#EXTINF:-1 group-title="CANAIS SD", Nickelodeon
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/198.ts
+#EXTINF:-1 group-title="CANAIS SD", OFF
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/115.ts
+#EXTINF:-1 group-title="CANAIS SD", Paramount
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/116.ts
+#EXTINF:-1 group-title="CANAIS +18", PlayBoy
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/201.ts
+#EXTINF:-1 group-title="CANAIS SD", Premiere 2
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/203.ts
+#EXTINF:-1 group-title="CANAIS SD", Premiere 3
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/206.ts
+#EXTINF:-1 group-title="CANAIS SD", Premiere 4
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/185.ts
+#EXTINF:-1 group-title="CANAIS SD", Premiere 5
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/122.ts
+#EXTINF:-1 group-title="CANAIS SD", Premiere 6
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/208.ts
+#EXTINF:-1 group-title="CANAIS SD", Premiere 7
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/209.ts
+#EXTINF:-1 group-title="CANAIS SD", Premiere 8
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/125.ts
+#EXTINF:-1 group-title="CANAIS SD", Premiere 9
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/186.ts
+#EXTINF:-1 group-title="CANAIS SD", Prime Box Brasil
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/128.ts
+#EXTINF:-1 group-title="CANAIS SD", RBS
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/187.ts
+#EXTINF:-1 group-title="TV ABERTA", Record
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/130.ts
+#EXTINF:-1 group-title="TV ABERTA", Record News
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/132.ts
+#EXTINF:-1 group-title="CANAIS SD", Rede Amazonica
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/189.ts
+#EXTINF:-1 group-title="TV ABERTA", SBT
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/191.ts
+#EXTINF:-1 group-title="CANAIS +18", Sextreme
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/135.ts
+#EXTINF:-1 group-title="CANAIS SD", Space
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/192.ts
+#EXTINF:-1 group-title="CANAIS SD", Sportv
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/193.ts
+#EXTINF:-1 group-title="CANAIS SD", Sportv 2
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/137.ts
+#EXTINF:-1 group-title="CANAIS SD", Studio Universal
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/195.ts
+#EXTINF:-1 group-title="CANAIS SD", Syfy
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/196.ts
+#EXTINF:-1 group-title="CANAIS SD", TBS
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/197.ts
+#EXTINF:-1 group-title="CANAIS SD", TC Action
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/141.ts
+#EXTINF:-1 group-title="CANAIS SD", TC Cult
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/143.ts
+#EXTINF:-1 group-title="CANAIS SD", TC Pipoca
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/200.ts
+#EXTINF:-1 group-title="CANAIS SD", TC Fun
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/215.ts
+#EXTINF:-1 group-title="CANAIS SD", TC Touch
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/244.ts
+#EXTINF:-1 group-title="CANAIS SD", TC SD
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/245.ts
+#EXTINF:-1 group-title="CANAIS SD", TCM
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/199.ts
+#EXTINF:-1 group-title="CANAIS SD", TLC
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/202.ts
+#EXTINF:-1 group-title="CANAIS SD", TNT
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/145.ts
+#EXTINF:-1 group-title="CANAIS SD", TNT Series
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/204.ts
+#EXTINF:-1 group-title="CANAIS SD", Tooncast
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/146.ts
+#EXTINF:-1 group-title="CANAIS SD", Tru TV
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/148.ts
+#EXTINF:-1 group-title="TV ABERTA", TV Anhanguera GO
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/150.ts
+#EXTINF:-1 group-title="TV ABERTA", TV Tem Bauru
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/152.ts
+#EXTINF:-1 group-title="TV ABERTA", TV Tem Sorocaba
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/154.ts
+#EXTINF:-1 group-title="TV ABERTA", TV Verdes mares
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/156.ts
+#EXTINF:-1 group-title="CANAIS SD", Universal Channel
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/158.ts
+#EXTINF:-1 group-title="CANAIS SD", Venus
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/205.ts
+#EXTINF:-1 group-title="CANAIS SD", Woohoo
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/207.ts
+#EXTINF:-1 group-title="CANAIS SD", Canal Rural
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/236.ts
+#EXTINF:-1 group-title="CANAIS SD", Cançao Nova
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/237.ts
+#EXTINF:-1 group-title="CANAIS SD", ideal TV
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/226.ts
+#EXTINF:-1 group-title="CANAIS SD", NBR
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/224.ts
+#EXTINF:-1 group-title="CANAIS SD", NHK
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/227.ts
+#EXTINF:-1 group-title="CANAIS SD", Novo Tempo
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/231.ts
+#EXTINF:-1 group-title="CANAIS SD", Play Tv
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/232.ts
+#EXTINF:-1 group-title="CANAIS SD", Premiere Clubes
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/210.ts
+#EXTINF:-1 group-title="CANAIS SD", Ra Tim Bum
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/228.ts
+#EXTINF:-1 group-title="CANAIS SD", RBI
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/234.ts
+#EXTINF:-1 group-title="CANAIS SD", Rede Brasil
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/225.ts
+#EXTINF:-1 group-title="TV ABERTA", Rede TV
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/211.ts
+#EXTINF:-1 group-title="CANAIS SD", Rede Vida
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/220.ts
+#EXTINF:-1 group-title="CANAIS SD", RIT
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/235.ts
+#EXTINF:-1 group-title="CANAIS +18", Sexy Hot
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/212.ts
+#EXTINF:-1 group-title="CANAIS SD", SIC Internacional
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/233.ts
+#EXTINF:-1 group-title="CANAIS SD", Sony
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/213.ts
+#EXTINF:-1 group-title="CANAIS SD", Sportv 3
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/214.ts
+#EXTINF:-1 group-title="CANAIS SD", Terra Viva
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/229.ts
+#EXTINF:-1 group-title="TV ABERTA", TV Aparecida
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/230.ts
+#EXTINF:-1 group-title="CANAIS SD", TV Brasil
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/223.ts
+#EXTINF:-1 group-title="CANAIS SD", TV Cultura
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/221.ts
+#EXTINF:-1 group-title="TV ABERTA", TV Liberal Belem
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/216.ts
+#EXTINF:-1 group-title="CANAIS SD", TVE
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/222.ts
+#EXTINF:-1 group-title="CANAIS SD", VH1 Mega Hits
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/217.ts
+#EXTINF:-1 group-title="CANAIS SD", Viva
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/218.ts
+#EXTINF:-1 group-title="CANAIS SD", Warner Channel
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/219.ts
 #EXTINF:-1,Animal Planet HD
 http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/97.ts
 #EXTINF:-1,AXN HD
@@ -406,7 +406,7 @@ http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/87.ts
 http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/88.ts
 #EXTINF:-1,TC Pipoca HD
 http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/89.ts
-#EXTINF:-1,TC Premium HD
+#EXTINF:-1,TC SD HD
 http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/90.ts
 #EXTINF:-1,TC Touch HD
 http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/49.ts
