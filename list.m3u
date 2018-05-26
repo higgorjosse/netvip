@@ -2,12 +2,6 @@
 #PLAYLISTV: pltv-logo="https://teatv.net/wp-content/uploads/2017/06/TeaTV_logo5.png" pltv-name="Netvip" pltv-description="Lista de canais e filmes" pltv-cover="https://www.arqiva.com/contentAsset/image/56dc44ed-7c91-42a2-8ec2-f30154833bb1/fileAsset/filter/Resize,Crop,Jpeg/resize_w/862/crop_w/862/crop_h/484/crop_x/0/crop_y/0/jpeg_q/80/56dc44ed-7c91-42a2-8ec2-f30154833bb1.jpg" pltv-author="Higor" pltv-email="ERRO404" pltv-phone="+55(83)9-9384-2568"
  
 
-################## CANAIS ABERTOS ########################
-
-#EXTINF:-1 group-title="TV ABERTA", SBT
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist_w1331269005.m3u8
-
-
 ################## CANAIS SD ########################
 
 #EXTINF:-1 group-title="CANAIS SD", + Globo Sat
