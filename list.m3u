@@ -6,21 +6,22 @@
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/icones-gratis/cartao-sd-de-forma-retangular_318-60318.jpg" group-title="CANAIS SD", + Globo Sat
 http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/98.ts
-#EXTINF:-1 group-title="CANAIS SD", Arte 1
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/icones-gratis/cartao-sd-de-forma-retangular_318-60318.jpg" group-title="CANAIS SD", Arte 1
 http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/99.ts
-#EXTINF:-1 group-title="CANAIS SD", AXN
+#EXTINF:-1 tvg-logo="https://img.freepik.com/icones-gratis/cartao-sd-de-forma-retangular_318-60318.jpg" group-title="CANAIS SD", AXN
 http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/100.ts
-#EXTINF:-1 group-title="CANAIS SD", A&
+#EXTINF:-1 tvg-logo="https://img.freepik.com/icones-gratis/cartao-sd-de-forma-retangular_318-60318.jpg" group-title="CANAIS SD", A&
 http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/117.ts
-#EXTINF:-1 group-title="CANAIS SD", AMC
+#EXTINF:-1 tvg-logo="https://img.freepik.com/icones-gratis/cartao-sd-de-forma-retangular_318-60318.jpg" group-title="CANAIS SD", AMC
 http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/118.ts
-#EXTINF:-1 group-title="CANAIS SD", Animal Planet
+#EXTINF:-1 tvg-logo="https://img.freepik.com/icones-gratis/cartao-sd-de-forma-retangular_318-60318.jpg" group-title="CANAIS SD", Animal Planet
 http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/119.ts
-#EXTINF:-1 group-title="TV ABERTA", Band
+#EXTINF:-1 tvg-logo="https://img.freepik.com/icones-gratis/cartao-sd-de-forma-retangular_318-60318.jpg" group-title="TV ABERTA", Band
 http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/120.ts
-#EXTINF:-1 group-title="CANAIS SD", Band News
+#EXTINF:-1 tvg-logo="https://img.freepik.com/icones-gratis/cartao-sd-de-forma-retangular_318-60318.jpg" group-title="CANAIS SD", Band News
 http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/121.ts
-#EXTINF:-1 group-title="CANAIS SD", Band Sports
+#EXTINF:-1 tvg-logo="https://img.freepik.com/icones-gratis/cartao-sd-de-forma-retangular_318-60318.jpg" group-title="CANAIS SD", Band Sports
 http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/123.ts
 #EXTINF:-1 group-title="CANAIS SD", Bis
 http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/101.ts
@@ -288,6 +289,11 @@ http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/217.ts
 http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/218.ts
 #EXTINF:-1 group-title="CANAIS SD", Warner Channel
 http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/219.ts
+
+
+################## CANAIS HD ########################
+
+
 #EXTINF:-1,Animal Planet HD
 http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/97.ts
 #EXTINF:-1,AXN HD
