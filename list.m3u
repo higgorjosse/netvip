@@ -4,20 +4,8 @@
 
 ################## CANAIS ABERTOS ########################
 
-#EXTINF:-1 group-title="TV ABERTA" pltv-subgroup="TV ABERTA", SBT
+#EXTINF:-1 group-title="TV ABERTA", SBT
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist_w1331269005.m3u8
-
-################## FILMES ########################
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/jhO50nYmGMbhaGAL6VLX5WBH3N7.jpg" group-title="Filmes" pltv-subgroup="Ação",Kong A Ilha da Caveira 480p
-http://185.38.12.50/sec/1527324846/39333138cf57e729abfb7e27ff1b570032e54faa1eba3908/ivs/b4/bc/df2bc8b2867e/hls/tracks-1,4/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/14HTiOiLHYf3qYIuxO12FkbfWlA.jpg" group-title="Filmes" pltv-subgroup="Faroeste",Os Oito Odiados 480p
-http://185.38.12.38/sec/1527323999/39363532342e368ceb73e1db77b77f65de3d4c2f755b4d0c/ivs/a2/cb/e5f520f23464/hls/tracks-1,4/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/kG4ZxEBVw4eS23QSXG0PaUaDoEx.jpg" group-title="Filmes" pltv-subgroup="Ficção",Planeta dos Macacos: A Guerra
-http://185.38.12.48/sec/1527326370/35353936eeae4d4be8ed7b0fe5b07280dbdb36501e78c27e/ivs/67/bb/1d59dda98204/hls/tracks-1,4/index.m3u8
 
 
 ################## CANAIS PREMIUM ########################
@@ -494,5 +482,22 @@ http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/5.ts
 http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/4.ts
 #EXTINF:-1,Woohoo HD
 http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/2.ts
+
+
+################## FILMES ########################
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/jhO50nYmGMbhaGAL6VLX5WBH3N7.jpg" group-title="Filmes" pltv-subgroup="Ação",Kong A Ilha da Caveira 480p
+http://185.38.12.50/sec/1527324846/39333138cf57e729abfb7e27ff1b570032e54faa1eba3908/ivs/b4/bc/df2bc8b2867e/hls/tracks-1,4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/14HTiOiLHYf3qYIuxO12FkbfWlA.jpg" group-title="Filmes" pltv-subgroup="Faroeste",Os Oito Odiados 480p
+http://185.38.12.38/sec/1527323999/39363532342e368ceb73e1db77b77f65de3d4c2f755b4d0c/ivs/a2/cb/e5f520f23464/hls/tracks-1,4/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/kG4ZxEBVw4eS23QSXG0PaUaDoEx.jpg" group-title="Filmes" pltv-subgroup="Ficção",Planeta dos Macacos: A Guerra
+http://185.38.12.48/sec/1527326370/35353936eeae4d4be8ed7b0fe5b07280dbdb36501e78c27e/ivs/67/bb/1d59dda98204/hls/tracks-1,4/index.m3u8
+
+
+
+
 
 
