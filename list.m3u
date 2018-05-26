@@ -4,7 +4,7 @@
 
 ################## CANAIS SD ########################
 
-#EXTINF:-1  tvg-logo="https://cdn4.iconfinder.com/data/icons/proglyphs-multimedia/512/Standard_Definition-512.png"group-title="CANAIS SD", + Globo Sat
+#EXTINF:-1 tvg-logo="https://cdn4.iconfinder.com/data/icons/proglyphs-multimedia/512/Standard_Definition-512.png" group-title="CANAIS SD", + Globo Sat
 http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/98.ts
 #EXTINF:-1 group-title="CANAIS SD", Arte 1
 http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/99.ts
