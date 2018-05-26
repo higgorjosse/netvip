@@ -22,7 +22,7 @@ http://185.38.12.48/sec/1527326370/35353936eeae4d4be8ed7b0fe5b07280dbdb36501e78c
 
 ################## CANAIS PREMIUM ########################
 
-#EXTINF:-1, group-title="CANAIS PREMIUM"+ Globo Sat
+#EXTINF:-1, group-title="CANAIS PREMIUM", + Globo Sat
 http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/98.ts
 #EXTINF:-1,group-title="CANAIS PREMIUM"Arte 1
 http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/99.ts
